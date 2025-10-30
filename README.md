@@ -1,24 +1,45 @@
 <h1 align="center">Hi 👋, I'm Judicha MAMIHARILALA</h1>
-<h3 align="center">Student in Big Data & Data Science in Fianance at ESF Finance</h3>
+<h3 align="center">Big Data & Data Science in Finance Student at ESF Finance</h3>
 
-- 🔭 I’m currently working on **Political trends analysis - presidential elections 2022**
+---
 
-- 🌱 I’m currently learning **Python, SQL, R, Scikit-lear, PowerBI, Machine learning**
+### 🔭 Current Project
+Working on **Political Trends Analysis – French Presidential Elections 2022**
 
-- 👯 I’m looking to collaborate on **Data analysis or financee-related rojects**
+### 🌱 Currently Learning
+**Python, SQL, R, Scikit-learn, Power BI, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Judicha502](https://github.com/Judicha502)
+### 👯 Looking to Collaborate On
+**Data analysis or finance-related projects**
 
-- 💬 Ask me about **Data visualization, statistics, and predictive modeling**
+### 👨‍💻 Portfolio
+All of my projects are available at [GitHub](https://github.com/Judicha502)
 
-- 📫 How to reach me **judichamh@gmail.com**
+### 💬 Ask Me About
+**Data visualization, statistics, predictive modeling**
 
-- ⚡ Fun fact **still thinking...**
+### 📫 Contact Me
+**judichamh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### ⚡ Fun Fact
+Still thinking...
+
+---
+
+### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/judicha-mamiharilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judicha-mamiharilala" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/judicha-mamiharilala" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+</p>
